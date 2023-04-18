@@ -28,3 +28,5 @@ To deploy and run the pipeline on a cloud-based provider, the following steps ca
 
 # Conclusion
 This data pipeline provides a scalable and modular solution for processing customer call logs and storing them in a PostgreSQL database. By following best practices for data processing and secure database connectivity, it ensures the reliability and security of the data.
+
+Google colab link:  https://colab.research.google.com/drive/1P2JCET-9byKwE1VPyQIoXeaQf0rCssQT?usp=sharing
