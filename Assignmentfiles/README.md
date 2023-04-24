@@ -30,6 +30,6 @@ To deploy and run the pipeline on a cloud-based provider, the following steps ca
 This data pipeline provides a scalable and modular solution for processing customer call logs and storing them in a PostgreSQL database. By following best practices for data processing and secure database connectivity, it ensures the reliability and security of the data.
 
 For the purpose of this assignment, I have included a link to a Google Cloud Colab notebook which has modulzarized, well documented and commented data pipeline code for this project.
-In the Assignmentfile folder, I have included the Documentation of the pipeline, the ReadMe file and Complete data pipeline for your perusal.
+In the Assignmentfile folder, I have included the Documentation of the pipeline, the ReadMe file and Complete data pipeline as both .py and .pynb files for your perusal.
 
 Google colab link:  https://colab.research.google.com/drive/1P2JCET-9byKwE1VPyQIoXeaQf0rCssQT?usp=sharing
